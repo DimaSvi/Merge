@@ -21,4 +21,4 @@ if (arr1[i] < arr2[j]) {
     }
     return resArr;
 }
-console.log(merge([1,7,2], [ -7, 0, 12]))
+console.log(merge([1,2,7], [ -7, 0, 12]))
